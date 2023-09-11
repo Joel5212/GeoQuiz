@@ -1,20 +1,20 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_australia">Canberra is the capital of Australia.</string>
     <string name="true_button">True</string>
     <string name="false_button">False</string>
     <string name="correct_toast">Correct!</string>
     <string name="incorrect_toast">Incorrect!</string>
     <string name="next_button">Next</string>
-    <string name="question_oceans">The Pacific Ocean is larger than
-    the Atlantic Ocean.</string>
-    <string name="question_mideast">The Suez Canal connects the Red Sea
-    and the Indian Ocean.</string>
-    <string name="question_africa">The source of the Nile River is in Egypt.</string>
-    <string name="question_americas">The Amazon River is the longest river
-    in the Americas.</string>
-    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
-    freshwater lake.</string>
+    <string name="question_us">The United States is the largest country in the World.</string>
+    <string name="question_president">The first President of the United States was Abraham Lincoln</string>
+    <string name="question_mountain">Mount Everest is the largest mountain in the world</string>
+    <string name="question_basketball">There are 3 NBA teams in California</string>
+    <string name="question_tiktok">TikTok is the most downloaded app right now</string>
+    <string name="question_amazon">Amazon is the most expensive company right now</string>
+    <string name="question_cpp">CPP was founded in 1938</string>
+    <string name="question_cpu">The central processing unit of a computer is the GPU</string>
+    <string name="question_java">Java is used to build IOS apps</string>
+    <string name="question_russia">Russia is the largest country in the world</string>
     <string name="previous_button">Prev</string>
     <string name="warning_text">Are you sure you want to do this?</string>
     <string name="show_answer_button">Show Answer</string>
